@@ -1,0 +1,28 @@
+.me-auto{
+    font-weight: bold;
+    
+}
+.navbar{
+    background-color: rgb(88, 227, 88);
+    height: 130px;
+    width: 1024px;
+
+}
+.me-auto a:active{
+    color: aliceblue;
+}
+.me-auto a:focus{
+    color: red;
+}
+.navbar a:active{
+    color: aliceblue;
+}
+
+.navbar-logo{
+    width:130px;
+    height: 130px;
+    border-radius: 100px;
+}
+.link{
+    background-color: greenyellow;
+}
